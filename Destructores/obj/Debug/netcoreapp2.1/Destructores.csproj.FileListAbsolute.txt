@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica c#\Destructores\bin\Debug\netcoreapp2.1\Destructores.deps.json
+C:\Users\Usuario\Desktop\Practica c#\Destructores\bin\Debug\netcoreapp2.1\Destructores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica c#\Destructores\bin\Debug\netcoreapp2.1\Destructores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Practica c#\Destructores\bin\Debug\netcoreapp2.1\Destructores.dll
+C:\Users\Usuario\Desktop\Practica c#\Destructores\bin\Debug\netcoreapp2.1\Destructores.pdb
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.dll
+C:\Users\Usuario\Desktop\Practica c#\Destructores\obj\Debug\netcoreapp2.1\Destructores.pdb

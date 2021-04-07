@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\tutoria\bin\Debug\netcoreapp2.1\tutoria.deps.json
+C:\Users\Usuario\Desktop\tutoria\bin\Debug\netcoreapp2.1\tutoria.runtimeconfig.json
+C:\Users\Usuario\Desktop\tutoria\bin\Debug\netcoreapp2.1\tutoria.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\tutoria\bin\Debug\netcoreapp2.1\tutoria.dll
+C:\Users\Usuario\Desktop\tutoria\bin\Debug\netcoreapp2.1\tutoria.pdb
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.dll
+C:\Users\Usuario\Desktop\tutoria\obj\Debug\netcoreapp2.1\tutoria.pdb

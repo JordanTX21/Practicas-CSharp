@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica c#\objetos\bin\Debug\netcoreapp2.1\objetos.deps.json
+C:\Users\Usuario\Desktop\Practica c#\objetos\bin\Debug\netcoreapp2.1\objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica c#\objetos\bin\Debug\netcoreapp2.1\objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Practica c#\objetos\bin\Debug\netcoreapp2.1\objetos.dll
+C:\Users\Usuario\Desktop\Practica c#\objetos\bin\Debug\netcoreapp2.1\objetos.pdb
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.dll
+C:\Users\Usuario\Desktop\Practica c#\objetos\obj\Debug\netcoreapp2.1\objetos.pdb

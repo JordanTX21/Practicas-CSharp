@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica c#\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.deps.json
+C:\Users\Usuario\Desktop\Practica c#\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica c#\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.runtimeconfig.dev.json
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.dll
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.pdb
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.csprojAssemblyReference.cache
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.dll
+c:\Users\Usuario\Desktop\Practica c#\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.pdb

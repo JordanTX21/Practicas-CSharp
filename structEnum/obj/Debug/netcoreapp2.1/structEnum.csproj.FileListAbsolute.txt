@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica c#\structEnum\bin\Debug\netcoreapp2.1\structEnum.deps.json
+C:\Users\Usuario\Desktop\Practica c#\structEnum\bin\Debug\netcoreapp2.1\structEnum.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica c#\structEnum\bin\Debug\netcoreapp2.1\structEnum.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Practica c#\structEnum\bin\Debug\netcoreapp2.1\structEnum.dll
+C:\Users\Usuario\Desktop\Practica c#\structEnum\bin\Debug\netcoreapp2.1\structEnum.pdb
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.dll
+C:\Users\Usuario\Desktop\Practica c#\structEnum\obj\Debug\netcoreapp2.1\structEnum.pdb

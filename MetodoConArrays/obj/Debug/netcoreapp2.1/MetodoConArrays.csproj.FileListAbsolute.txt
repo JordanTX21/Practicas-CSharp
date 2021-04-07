@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\bin\Debug\netcoreapp2.1\MetodoConArrays.deps.json
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\bin\Debug\netcoreapp2.1\MetodoConArrays.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\bin\Debug\netcoreapp2.1\MetodoConArrays.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\bin\Debug\netcoreapp2.1\MetodoConArrays.dll
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\bin\Debug\netcoreapp2.1\MetodoConArrays.pdb
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.dll
+C:\Users\Usuario\Desktop\Practica c#\MetodoConArrays\obj\Debug\netcoreapp2.1\MetodoConArrays.pdb
